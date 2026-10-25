@@ -26,7 +26,7 @@ The CS50 Library (cs50.h) installed, or run the project directly inside the CS50
 Clone the repository:
 
 ## Bash
-git clone [https://github.com/nataliedim1/YOUR-REPOSITORY-NAME.git](https://github.com/nataliedim1/CS50-Mario.git)
+git clone [https://github.com/nataliedim1/CS50-Mario.git](https://github.com/nataliedim1/CS50-Mario.git)
 cd CS50-Mario
 Compile the program:
 
